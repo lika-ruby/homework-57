@@ -68,5 +68,3 @@ const decrement = function (counterValue, textElement) {
   counterValue -= 1;
   textElement.textContent = counterValue;
 };
-
-increment(counterValue, textElement);
